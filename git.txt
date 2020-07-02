@@ -1,0 +1,11 @@
+git status
+git init
+
+git config--global user.name "let's farooq it"
+git config--global user.email farooqui.faheem033@gmail.com
+git config user.name "let's farooq it"
+git config user.email farooqui.faheem033@gmail.com
+git add
+git commit -m""
+git log
+Git diff <filename>
